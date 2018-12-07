@@ -1,5 +1,5 @@
 # practice
 practice code for Unix Network Programming course 
 
-author: ---
-student number: ----
+author:  刘康
+student number:  201692306
